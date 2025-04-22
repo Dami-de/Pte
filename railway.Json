@@ -1,0 +1,10 @@
+{
+  "build": {
+    "env": {
+      "APP_ENV": "production",
+      "APP_KEY": "",
+      "APP_DEBUG": "false",
+      "APP_URL": "https://your-subdomain.up.railway.app"
+    }
+  }
+}
